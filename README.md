@@ -1,5 +1,7 @@
 # Fibonacci-Sphere
 
+Looking to spice up your portfolio or business with relevant icons in a unique way? This is sure to grab your audience's attention!
+
 ## A container for displaying HTML SVG elements in a rotating sphere
 
 **Check out the CodePen**: https://codepen.io/smonzon14/pen/NWjRZWe
