@@ -2,6 +2,7 @@
 
 ## A container for displaying HTML SVG elements in a rotating sphere
 
+**Check out the CodePen**: https://codepen.io/smonzon14/pen/NWjRZWe
 The code uses mouse input to rotate and changes opacity and size based on an element's position on the sphere.
 
 ### Notes:
@@ -13,5 +14,6 @@ The code uses mouse input to rotate and changes opacity and size based on an ele
 
 ### Sources:
 
-- https://stackoverflow.com/questions/13275719/rotate-a-3d-point-around-another-one
-- https://www.basedesign.com/blog/how-to-render-3d-in-2d-canvas
+- MATHS: https://stackoverflow.com/questions/13275719/rotate-a-3d-point-around-another-one
+- GLOBE RENDERING: https://www.basedesign.com/blog/how-to-render-3d-in-2d-canvas
+- ICONS: https://devicon.dev/
